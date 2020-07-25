@@ -31,6 +31,9 @@
     }
 }
 @media (max-width: 767px) and (min-width: 576px) {
+    .visible-xs{
+        visibility: visible;
+    }
     .col-sm-12 {
         margin: 4%;
         width: 92%;
